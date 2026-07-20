@@ -416,47 +416,6 @@ git commit -m "docs: Dördüncü hafta final raporu tamamlandı"
 
 ---
 
-## Değerlendirme Kriterleri
 
-Çalışmalar aşağıdaki temel ölçütlere göre hazırlanacaktır:
 
-- Repository düzeni
-- README kalitesi
-- Teknik kavramların doğru açıklanması
-- AIHEXA projesiyle bağlantı kurulması
-- Frontend, backend ve database ayrımının anlaşılması
-- API ve form analizlerinin doğruluğu
-- WordPress ve özel yazılım karşılaştırması
-- SEO ve sosyal medya planlarının uygulanabilirliği
-- Haftalık raporların düzeni
-- Sunumların anlaşılır ve kapsamlı olması
-
----
-
-## Beklenen Kazanımlar
-
-Bu çalışma sonunda aşağıdaki kazanımların elde edilmesi hedeflenmektedir:
-
-- Modern bir web projesine bütüncül bakabilmek
-- Teknik ve içerik taraflarını birlikte değerlendirebilmek
-- GitHub üzerinde düzenli çalışma alışkanlığı kazanmak
-- Frontend ve backend arasındaki veri akışını açıklayabilmek
-- REST API ve JSON yapılarını analiz edebilmek
-- Bir yazılım modülü için proje planı hazırlayabilmek
-- Kullanıcı ve admin ihtiyaçlarını ayırabilmek
-- Hata ve validasyon senaryolarını belirleyebilmek
-- WordPress, SEO ve sosyal medya çalışmalarını projeye bağlayabilmek
-- Teknik çalışmaları raporlayıp sunabilmek
-
----
-
-## Sonuç
-
-Bu repository, AIHEXA staj programının 3. ve 4. haftasında gerçekleştirilen araştırma, analiz ve planlama çalışmalarını düzenli biçimde saklamak amacıyla hazırlanmıştır.
-
-Çalışmalarda her konu yalnızca tanımıyla ele alınmayacak; aşağıdaki temel soruya da cevap verilecektir:
-
-> **Bu bilgi AIHEXA projesinde nerede ve nasıl kullanılabilir?**
-
-Bu yaklaşım sayesinde bir web projesinin yalnızca koddan oluşmadığı; teknik geliştirme, dokümantasyon, içerik yönetimi, SEO, sosyal medya, kullanıcı deneyimi, raporlama ve ekip çalışmasının aynı bütünün parçaları olduğu gösterilecektir.
 
