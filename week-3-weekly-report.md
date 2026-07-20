@@ -1,8 +1,8 @@
-# 📌 Günlük Çalışma Raporu
+# Pazartesi Günlük Çalışma Raporu
 
-## 📚 Bugün Ne Öğrendim?
+## Pazartesi Ne Öğrendim?
 
-Bugün aşağıdaki konular hakkında çalışmalar yaptım:
+Pazartesi günü aşağıdaki konular hakkında çalışmalar yaptım:
 
 * Markdown etiketleri ve kullanım alanları
 * Git ve GitHub
@@ -17,19 +17,19 @@ Bugün aşağıdaki konular hakkında çalışmalar yaptım:
 * Bir yazılım ekibinde GitHub kullanımı
 * Proje klasör yapısının önemi
 
-Bu çalışmalar sayesinde Git ve GitHub'ın bir yazılım projesindeki temel kullanım mantığını daha iyi anladım.
+Bu çalışmalar sayesinde Git ve GitHub’ın bir yazılım projesindeki temel kullanım mantığını daha iyi anladım.
 
 ---
 
-## 🤔 En Çok Zorlandığım Konu Neydi?
+## En Çok Zorlandığım Konu Neydi?
 
 Genel olarak konuları öğrenirken çok fazla zorlanmadım. Ancak **Issue** konusu başlangıçta bana biraz farklı ve anlaşılması zor geldi.
 
-Issue kavramını daha iyi anlayabilmek için iki farklı kaynaktan araştırma yapmam gerekti. Farklı kaynakları inceledikten sonra Issue'ların projelerde hata bildirmek, görev oluşturmak, geliştirme önerisi sunmak ve ekip içindeki işleri takip etmek amacıyla kullanıldığını öğrendim.
+Issue kavramını daha iyi anlayabilmek için iki farklı kaynaktan araştırma yapmam gerekti. Farklı kaynakları inceledikten sonra Issue’ların projelerde hata bildirmek, görev oluşturmak, geliştirme önerisi sunmak ve ekip içerisindeki işleri takip etmek amacıyla kullanıldığını öğrendim.
 
 ---
 
-## 🗂️ GitHub'da Ne Oluşturdum?
+## GitHub’da Ne Oluşturdum?
 
 GitHub repository içerisinde aşağıdaki Markdown dosyalarını oluşturdum:
 
@@ -47,7 +47,7 @@ GitHub repository içerisinde aşağıdaki Markdown dosyalarını oluşturdum:
 
 ---
 
-## 🎯 Bir Sonraki Gün Neye Çalışacağım?
+## Bir Sonraki Gün Neye Çalışacağım?
 
 Bir sonraki gün aşağıdaki konulara çalışmayı planlıyorum:
 
@@ -62,4 +62,3 @@ Bir sonraki gün aşağıdaki konulara çalışmayı planlıyorum:
   * **Delete:** Veri silme
 
 Özellikle CRUD işlemlerinin Spring Boot içerisinde nasıl gerçekleştirildiğini detaylı bir şekilde araştıracağım.
-
