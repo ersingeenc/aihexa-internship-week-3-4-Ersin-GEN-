@@ -1,5 +1,3 @@
-# aihexa-internship-week-3-4-Ersin-GENÇ
-
 # AIHEXA Staj Çalışması — 3. ve 4. Hafta
 
 Bu repository, **AIHEXA 2026 Yaz Stajı** kapsamında yürütülen 3. ve 4. hafta çalışmalarını içermektedir.  
@@ -15,7 +13,7 @@ Bu repository, **AIHEXA 2026 Yaz Stajı** kapsamında yürütülen 3. ve 4. haft
 | **Staj Dönemi** | 2026 Yaz Stajı |
 | **Çalışma Haftaları** | 3. ve 4. Hafta |
 | **Kurum** | AIHEXA |
-| **Repository Adı** | `aihexa-internship-week-3-4-ersin-genc` |
+| **Repository Adı** | `aihexa-internship-week-3-4-Ersin-GEN-` |
 
 ---
 
@@ -131,7 +129,7 @@ Bir web projesi yalnızca frontend veya backend kodundan oluşmaz. Projenin tekn
 
 ### Eğitim Başvuru Modülü
 
-Bu repository kapsamında örnek mini modül olarak **Eğitim Başvuru Modülü** ele alınacaktır.
+Bu repository kapsamında örnek mini modül olarak **Eğitim Başvuru Modülü** ele alınmaktadır. Modülün basit frontend formu ve örnek JSON yapısı hazırlanmıştır.
 
 #### Modülün Amacı
 
@@ -227,13 +225,19 @@ AIHEXA eğitimlerine katılmak isteyen öğrencilerin veya profesyonellerin çev
 ## Repository Dosya Yapısı
 
 ```text
-aihexa-internship-week-3-4-ersin-genc/
+aihexa-internship-week-3-4-Ersin-GEN-/
 │
 ├── README.md
 │
 ├── week-3-git-github.md
 ├── week-3-spring-boot.md
 ├── week-3-react.md
+│
+├── week-3-day-3-task/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
 ├── week-3-wordpress.md
 ├── week-3-social-media.md
 ├── week-3-seo.md
@@ -256,9 +260,10 @@ aihexa-internship-week-3-4-ersin-genc/
 
 | Dosya | İçerik | Durum |
 |---|---|---|
-| [`week-3-git-github.md`](week-3-git-github.md) | Git, GitHub, README ve proje dosya disiplini | ⬜ Planlandı |
-| [`week-3-spring-boot.md`](week-3-spring-boot.md) | Spring Boot, backend, REST API ve kullanıcı kayıt akışı | ⬜ Planlandı |
-| [`week-3-react.md`](week-3-react.md) | React, component, state, form ve JSON yapısı | ⬜ Planlandı |
+| [`week-3-git-github.md`](week-3-git-github.md) | Git, GitHub, README ve proje dosya disiplini | ✅ Tamamlandı |
+| [`week-3-spring-boot.md`](week-3-spring-boot.md) | Spring Boot, backend, REST API ve kullanıcı kayıt akışı | ✅ Tamamlandı |
+| [`week-3-react.md`](week-3-react.md) | React, component, state, form ve JSON yapısı | ✅ Tamamlandı |
+| [`week-3-day-3-task`](week-3-day-3-task/) | Eğitim kayıt formu ve backend'e gönderilecek JSON yapısı | ✅ Tamamlandı |
 | [`week-3-wordpress.md`](week-3-wordpress.md) | WordPress ve özel yazılım karşılaştırması | ⬜ Planlandı |
 | [`week-3-social-media.md`](week-3-social-media.md) | Sosyal medya ve kurumsal kullanım amaçları | ⬜ Planlandı |
 | [`week-3-seo.md`](week-3-seo.md) | SEO temelleri ve blog başlıkları | ⬜ Planlandı |
@@ -284,9 +289,9 @@ aihexa-internship-week-3-4-ersin-genc/
 
 | Gün | Çalışma Konusu | Oluşturulacak Dosya | Durum |
 |---|---|---|---|
-| 3. Hafta Pazartesi | Git, GitHub, README ve dosya disiplini | `week-3-git-github.md` | ⬜ |
-| 3. Hafta Salı | Spring Boot ve backend mantığı | `week-3-spring-boot.md` | ⬜ |
-| 3. Hafta Çarşamba | React ve frontend mantığı | `week-3-react.md` | ⬜ |
+| 3. Hafta Pazartesi | Git, GitHub, README ve dosya disiplini | `week-3-git-github.md` | ✅ |
+| 3. Hafta Salı | Spring Boot ve backend mantığı | `week-3-spring-boot.md` | ✅ |
+| 3. Hafta Çarşamba | React, frontend mantığı ve eğitim kayıt formu | `week-3-react.md` ve `education-registration-form/` | ✅ |
 | 3. Hafta Perşembe | WordPress, sosyal medya ve SEO | Üç ayrı araştırma dosyası | ⬜ |
 | 3. Hafta Cuma | AIHEXA modül analizi ve haftalık rapor | İki ayrı rapor dosyası | ⬜ |
 | 4. Hafta Pazartesi | Mini modül seçimi ve proje planı | `week-4-project-plan.md` | ⬜ |
