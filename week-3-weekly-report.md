@@ -156,4 +156,59 @@ Bugünkü çalışma notlarımı ve eğitim kayıt formu projemi aşağıdaki do
 
 Bir sonraki gün **WordPress temelleri ve içerik yönetimi** konularına çalışmayı planlıyorum.
 
+# Perşembe Günlük Çalışma Raporu
+
+## Perşembe Ne Öğrendim?
+
+Perşembe günü aşağıdaki konular hakkında çalışmalar yaptım:
+
+* WordPress’in temel çalışma mantığı
+* Tema, eklenti, sayfa ve yazı kavramları
+* WordPress ile özel yazılım arasındaki farklar
+* Sosyal medya ve kurumsal sosyal medya yönetimi
+* Hedef kitle ve marka bilinirliği
+* Etkileşim ve takipçi kazanmanın önemi
+* İçerik takvimi oluşturma
+* Reels, Story ve Carousel post türleri
+* SEO ve arama motorlarının çalışma mantığı
+* Anahtar kelime, başlık etiketi ve meta açıklama
+* Teknik SEO, içerik SEO ve Local SEO
+* Google Search Console kullanımı
+
+Bu çalışmalar sayesinde WordPress ile web sitesi yönetiminin, sosyal medya çalışmalarının ve SEO süreçlerinin bir şirketin dijital görünürlüğüne nasıl katkı sağladığını daha iyi anladım.
+
+---
+
+## En Çok Zorlandığım Konu Neydi?
+
+Genel olarak konuları öğrenirken çok fazla zorlanmadım. Ancak **teknik SEO ile içerik SEO arasındaki farkı** anlamak başlangıçta biraz karışık geldi.
+
+Yaptığım araştırmalar sonucunda teknik SEO’nun site hızı, mobil uyumluluk, indexleme ve site yapısı gibi teknik konularla ilgilendiğini; içerik SEO’nun ise anahtar kelimeler, başlıklar ve kaliteli içerik üretimiyle ilgili olduğunu öğrendim.
+
+---
+
+## GitHub’da Ne Oluşturdum?
+
+GitHub repository içerisinde aşağıdaki Markdown dosyalarını güncelledim:
+
+| Dosya Adı                 | İçeriği                                                    |
+| ------------------------- | ---------------------------------------------------------- |
+| `week-3-wordpress.md`     | WordPress temel kavramları ve özel yazılım karşılaştırması |
+| `week-3-social-media.md`  | Sosyal medya kavramları ve kurumsal kullanım alanları      |
+| `week-3-seo.md`           | SEO kavramları ve SEO uyumlu blog başlıkları               |
+| `week-3-weekly-report.md` | Haftalık çalışma raporu                                    |
+
+---
+
+## Bir Sonraki Gün Neye Çalışacağım?
+
+Bir sonraki gün aşağıdaki konulara çalışmayı planlıyorum:
+
+*AIHEXA Modül Analizi
+*Yapay zeka destekli içerik üretim modülü
+*Modül türleri
+
+Özellikle React’in component tabanlı yapısını ve frontend geliştirme sürecinde nasıl kullanıldığını araştıracağım.
+
+
 
