@@ -113,4 +113,11 @@ SEO ayarları, sitenin Google gibi arama motorlarında daha kolay bulunmasını 
 
 **Sonuç:**WordPress; hızlı, ekonomik ve temel ihityaçlara sahip projeler için uygundur. Özel yazılım ise yüksek performans, güvenlik, esneklik ve gelişmiş özekkik gerektiren projelerde daha avantajlıdır.
 
+# AIHEXA Firmasında WordPress ve Özel Yazılım Kullanımı
+
+AIHEXA firmasında **WordPress**; kurumsal internet sitesi, blog, eğitim duyuruları ve hizmet tanıtımları için kullanılabilir. Hızlı kurulması, düşük maliyetli olması ve kolay yönetilmesi bu alanlarda avantaj sağlar.
+
+**Özel yazılım** ise yapay zekâ destekli sistemler, randevu uygulamaları, eğitim platformları ve SMS/e-posta entegrasyonları için kullanılabilir. Bu tür projelerde daha fazla güvenlik, performans ve özelleştirme imkânı sunar.
+
+
 
