@@ -85,9 +85,32 @@ WordPress siteleri saldırı, veri kaybı ve zararlı yazılım riskleriyle kar�
 
 Sire çöktüğünde, saldırıya uğradığında veya yanlışlıkla içerikler silindiğinde yedek sayesinde site eski haline getirilebilir.
 
+
+
 ---
 
 ## WordPress SEO Ayarları Neden Önemlidir?
 
 SEO ayarları, sitenin Google gibi arama motorlarında daha kolay bulunmasını sağlar. Doğru başlıklar, açıklamalar, bağlantılar ve anahtar kelimler sitenin ziyaretçi sayısını artırabilir.
+
+# ÖDEV:
+
+## Wordpress ile Özel Yazılım Karşılaştırması:
+
+| Karşılaştırma Başlığı          | WordPress                                                          | Özel Yazılım                                                              |
+| ------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Kurulum Hızı                   | Hazır tema ve eklentiler sayesinde hızlı kurulur.                  | Analiz, tasarım ve geliştirme gerektiği için daha uzun sürer.             |
+| Maliyet                        | Başlangıç maliyeti genellikle daha düşüktür.                       | Geliştirme süreci nedeniyle maliyeti daha yüksektir.                      |
+| Güvenlik                       | Güncel tutulmazsa tema ve eklentiler güvenlik açığı oluşturabilir. | Doğru geliştirilirse daha kontrollü ve projeye özel güvenlik sağlar.      |
+| Performans                     | Fazla eklenti kullanımı performansı düşürebilir.                   | İhtiyaca göre geliştirdiği için daha yüksek performans sağlayabilir.      |
+| SEO                            | SEO eklentileri sayesinde kolayca yönetilebilir.                   | SEO ayarları geliştirici tarafından özel olarak hazırlanır.               |
+| Yönetim Paneli                 | hazır ve kullanımı kolay bir yönetim paneli bulunur.               | Projenin ihtiyaçlarına göre özel yönetim paneli geliştirilir.             |
+| Özel Modül Geliştirme          | Eklentilerle yapılabilir ancak bazı sınırlamalar vardır.           | İstenilen her özellik projeye özel geliştirilebilir.                      |
+| Eğitim platformu için uygunluk | Basit ve orta seviyeli eğitim platformları için uygundur.          | Gelişmiş sınav, takip ve raporlama ve sistemleri için daha uygundur.      |
+| Randevu sistemi için uygunluk  | Hazır randevu eklentileriyle kullanılabilir.                       | Karmaşık randevu kuralları için daha esnek ve daha uygundur.              |
+| SMS/E-posta entegrasyonu       | Hazır eklentiler ve servisler aracılığıyla yapılabilir.            | İstenilen SMS ve e-posta servisi doğrudan sisteme entegre edilebilir.     |
+| Yapay Zeka entegrasyonu        | Eklenti veya API kullanılarak temel entegrasyonlar yapılabilir.    | Gelişmiş ve tamamen projeye özel yapay zeka özellikleri geliştirilebilir. |
+
+**Sonuç:**WordPress; hızlı, ekonomik ve temel ihityaçlara sahip projeler için uygundur. Özel yazılım ise yüksek performans, güvenlik, esneklik ve gelişmiş özekkik gerektiren projelerde daha avantajlıdır.
+
 
