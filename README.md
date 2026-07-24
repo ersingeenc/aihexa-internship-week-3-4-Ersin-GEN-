@@ -264,22 +264,22 @@ aihexa-internship-week-3-4-Ersin-GEN-/
 | [`week-3-spring-boot.md`](week-3-spring-boot.md) | Spring Boot, backend, REST API ve kullanıcı kayıt akışı | ✅ Tamamlandı |
 | [`week-3-react.md`](week-3-react.md) | React, component, state, form ve JSON yapısı | ✅ Tamamlandı |
 | [`week-3-day-3-task`](week-3-day-3-task/) | Eğitim kayıt formu ve backend'e gönderilecek JSON yapısı | ✅ Tamamlandı |
-| [`week-3-wordpress.md`](week-3-wordpress.md) | WordPress ve özel yazılım karşılaştırması | ⬜ Planlandı |
-| [`week-3-social-media.md`](week-3-social-media.md) | Sosyal medya ve kurumsal kullanım amaçları | ⬜ Planlandı |
-| [`week-3-seo.md`](week-3-seo.md) | SEO temelleri ve blog başlıkları | ⬜ Planlandı |
-| [`week-3-aihexa-module-analysis.md`](week-3-aihexa-module-analysis.md) | AIHEXA için en az beş modülün analizi | ⬜ Planlandı |
-| [`week-3-weekly-report.md`](week-3-weekly-report.md) | Üçüncü hafta değerlendirme raporu | ⬜ Planlandı |
+| [`week-3-wordpress.md`](week-3-wordpress.md) | WordPress ve özel yazılım karşılaştırması | ✅ Tamamlandı |
+| [`week-3-social-media.md`](week-3-social-media.md) | Sosyal medya ve kurumsal kullanım amaçları | ✅ Tamamlandı |
+| [`week-3-seo.md`](week-3-seo.md) | SEO temelleri ve blog başlıkları | ✅ Tamamlandı |
+| [`week-3-aihexa-module-analysis.md`](week-3-aihexa-module-analysis.md) | AIHEXA için en az beş modülün analizi | ✅ Tamamlandı |
+| [`week-3-weekly-report.md`](week-3-weekly-report.md) | Üçüncü hafta değerlendirme raporu | ✅ Tamamlandı |
 
 ### 4. Hafta Teslimleri
 
 | Dosya | İçerik | Durum |
 |---|---|---|
-| [`week-4-project-plan.md`](week-4-project-plan.md) | Seçilen mini modülün proje planı | ⬜ Planlandı |
-| [`week-4-api-analysis.md`](week-4-api-analysis.md) | Endpoint, request, response ve validasyon analizi | ⬜ Planlandı |
-| [`week-4-react-form-analysis.md`](week-4-react-form-analysis.md) | React formu ve frontend ekran analizi | ⬜ Planlandı |
-| [`week-4-wordpress-seo-analysis.md`](week-4-wordpress-seo-analysis.md) | WordPress tanıtımı ve SEO planı | ⬜ Planlandı |
-| [`week-4-social-media-calendar.md`](week-4-social-media-calendar.md) | Bir haftalık sosyal medya içerik takvimi | ⬜ Planlandı |
-| [`week-4-final-report.md`](week-4-final-report.md) | Dördüncü hafta ve genel süreç değerlendirmesi | ⬜ Planlandı |
+| [`week-4-project-plan.md`](week-4-project-plan.md) | Seçilen mini modülün proje planı | ✅ Tamamlandı |
+| [`week-4-api-analysis.md`](week-4-api-analysis.md) | Endpoint, request, response ve validasyon analizi | ✅ Tamamlandı |
+| [`week-4-react-form-analysis.md`](week-4-react-form-analysis.md) | React formu ve frontend ekran analizi | ✅ Tamamlandı |
+| [`week-4-wordpress-seo-analysis.md`](week-4-wordpress-seo-analysis.md) | WordPress tanıtımı ve SEO planı | ✅ Tamamlandı |
+| [`week-4-social-media-calendar.md`](week-4-social-media-calendar.md) | Bir haftalık sosyal medya içerik takvimi | ✅ Tamamlandı |
+| [`week-4-final-report.md`](week-4-final-report.md) | Dördüncü hafta ve genel süreç değerlendirmesi | ✅ Tamamlandı |
 
 > Çalışmalar tamamlandıkça durum alanları `✅ Tamamlandı` şeklinde güncellenecektir.
 
@@ -292,13 +292,13 @@ aihexa-internship-week-3-4-Ersin-GEN-/
 | 3. Hafta Pazartesi | Git, GitHub, README ve dosya disiplini | `week-3-git-github.md` | ✅ |
 | 3. Hafta Salı | Spring Boot ve backend mantığı | `week-3-spring-boot.md` | ✅ |
 | 3. Hafta Çarşamba | React, frontend mantığı ve eğitim kayıt formu | `week-3-react.md` ve `education-registration-form/` | ✅ |
-| 3. Hafta Perşembe | WordPress, sosyal medya ve SEO | Üç ayrı araştırma dosyası | ⬜ |
-| 3. Hafta Cuma | AIHEXA modül analizi ve haftalık rapor | İki ayrı rapor dosyası | ⬜ |
-| 4. Hafta Pazartesi | Mini modül seçimi ve proje planı | `week-4-project-plan.md` | ⬜ |
-| 4. Hafta Salı | API analizi ve backend iş akışı | `week-4-api-analysis.md` | ⬜ |
-| 4. Hafta Çarşamba | React formu ve frontend ekranları | `week-4-react-form-analysis.md` | ⬜ |
-| 4. Hafta Perşembe | WordPress, SEO ve sosyal medya entegrasyonu | `week-4-wordpress-seo-analysis.md` | ⬜ |
-| 4. Hafta Cuma | Sosyal medya takvimi, final raporu ve sunum | İki ayrı teslim dosyası | ⬜ |
+| 3. Hafta Perşembe | WordPress, sosyal medya ve SEO | Üç ayrı araştırma dosyası | ✅ |
+| 3. Hafta Cuma | AIHEXA modül analizi ve haftalık rapor | İki ayrı rapor dosyası | ✅ |
+| 4. Hafta Pazartesi | Mini modül seçimi ve proje planı | `week-4-project-plan.md` | ✅ |
+| 4. Hafta Salı | API analizi ve backend iş akışı | `week-4-api-analysis.md` | ✅ |
+| 4. Hafta Çarşamba | React formu ve frontend ekranları | `week-4-react-form-analysis.md` | ✅ |
+| 4. Hafta Perşembe | WordPress, SEO ve sosyal medya entegrasyonu | `week-4-wordpress-seo-analysis.md` | ✅ |
+| 4. Hafta Cuma | Sosyal medya takvimi, final raporu ve sunum | İki ayrı teslim dosyası | ✅ |
 
 ---
 
