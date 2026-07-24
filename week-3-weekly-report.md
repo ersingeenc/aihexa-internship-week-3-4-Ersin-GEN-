@@ -210,5 +210,77 @@ Bir sonraki gün aşağıdaki konulara çalışmayı planlıyorum:
 
 Özellikle React’in component tabanlı yapısını ve frontend geliştirme sürecinde nasıl kullanıldığını araştıracağım.
 
+# Cuma Günlük Çalışma Raporu
+
+## Cuma Ne Öğrendim?
+
+Cuma günü bir yazılım sisteminde bulunan modüller ve bu modüllerin çalışma yapısı hakkında çalışmalar yaptım.
+
+İncelediğim modüller şunlardır:
+
+* Kullanıcı yönetimi modülü
+* Eğitim modülü
+* Kurs modülü
+* Blog modülü
+* Randevu modülü
+
+Her modül için aşağıdaki konuları araştırdım:
+
+* Modülün ne işe yaradığı
+* Modülü kimlerin kullanacağı
+* Frontend tarafında bulunabilecek ekranlar
+* Backend tarafında gerekli olabilecek API’ler
+* Database tarafında kullanılabilecek tablolar
+* Modüllerde karşılaşılabilecek hatalar
+* Modüllerin sosyal medya, SEO ve eğitim alanlarına katkıları
+
+Bu çalışmalar sayesinde bir yazılım projesinin farklı görevlere sahip modüllere ayrılabileceğini ve bu modüllerin frontend, backend ve database taraflarında birlikte çalıştığını öğrendim.
+
+---
+
+## En Çok Zorlandığım Konu Neydi?
+
+Genel olarak modüllerin ne işe yaradığını anlamakta çok fazla zorlanmadım. Ancak her modül için gerekli olabilecek backend API’lerini ve database tablolarını belirlemek başlangıçta biraz zor geldi.
+
+Modüllerin gerçekleştirdiği işlemleri inceledikten sonra frontend ekranları, backend API’leri ve database tabloları arasındaki bağlantıyı daha iyi anladım.
+
+---
+
+## GitHub’da Ne Oluşturdum?
+
+GitHub repository içerisinde aşağıdaki Markdown dosyalarını oluşturdum:
+
+| Dosya Adı                          | İçeriği                            |
+| ---------------------------------- | ---------------------------------- |
+| `README.md`                        | Repository hakkında genel bilgiler |
+| `week-3-git-github.md`             | Git ve GitHub çalışma notları      |
+| `week-3-spring-boot.md`            | Spring Boot çalışma notları        |
+| `week-3-react.md`                  | React çalışma notları              |
+| `week-3-wordpress.md`              | WordPress çalışma notları          |
+| `week-3-social-media.md`           | Sosyal medya çalışma notları       |
+| `week-3-seo.md`                    | SEO çalışma notları                |
+| `week-3-aihexa-module-analysis.md` | AIHexa modül analiz notları        |
+| `week-3-weekly-report.md`          | Üçüncü hafta çalışma raporu        |
+
+---
+
+## Bir Sonraki Hafta Neye Çalışacağım?
+
+Bir sonraki hafta **Modern Web Projesi Uygulama Hazırlığı ve Mini Proje Analizi** konularına çalışmayı planlıyorum.
+
+Bu kapsamda aşağıdaki konuları araştıracağım:
+
+* Modern bir web projesinin temel yapısı
+* Projenin frontend, backend ve database bölümleri
+* Projede kullanılacak teknolojilerin belirlenmesi
+* Proje klasör yapısının hazırlanması
+* Kullanıcı ihtiyaçlarının analiz edilmesi
+* Mini proje fikrinin belirlenmesi
+* Projede bulunacak sayfa ve modüllerin planlanması
+* Gerekli API ve database tablolarının belirlenmesi
+
+Bu çalışmalar sonucunda geliştirilecek mini projenin temel yapısını ve ihtiyaçlarını belirlemeyi hedefliyorum.
+
+
 
 
