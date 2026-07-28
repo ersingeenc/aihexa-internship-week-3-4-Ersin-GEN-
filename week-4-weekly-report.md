@@ -49,11 +49,7 @@ Bir sonraki gün **QR Kod Oluşturma Modülünün geliştirme aşamalarına** ç
 
 Özellikle:
 
-* Frontend ekranlarının oluşturulması
-* QR kod oluşturma formunun hazırlanması
-* Backend işlemlerinin oluşturulması
-* QR kod bilgilerinin database içerisinde tutulması
-* Frontend, backend ve database bağlantısının kurulması
+* QR Kod Modulünün API analizi
 
 konularına çalışmayı planlıyorum.
 
