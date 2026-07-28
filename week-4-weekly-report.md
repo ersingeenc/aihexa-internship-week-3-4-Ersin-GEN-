@@ -46,6 +46,62 @@ GitHub repository içerisinde aşağıdaki Markdown dosyasını oluşturdum:
 ## Bir Sonraki Gün Neye Çalışacağım?
 
 Bir sonraki gün **QR Kod Oluşturma Modülünün geliştirme aşamalarına** çalışmayı planlıyorum.
+# Salı Günlük Çalışma Raporu
+
+## Salı Ne Öğrendim?
+
+Salı günü **AIHEXA QR Kod Oluşturma Modülünün API analizi** üzerine çalışma yaptım.
+
+Bu çalışma kapsamında:
+
+* API Endpoint kavramı
+* Request ve Response yapıları
+* JSON Request Body ve JSON Response Body
+* CRUD işlemleri
+* HTTP metotları
+* HTTP Status Kodları
+* Backend validasyon işlemleri
+* Başarılı ve hatalı response yapıları
+* Olası backend hataları
+* QR Kod Modülü için gerekli API endpointleri
+
+konularını araştırdım.
+
+QR Kod Modülü için QR kod oluşturma, listeleme, detay görüntüleme, güncelleme ve silme işlemlerinde kullanılabilecek API endpointlerini belirledim.
+
+Bu çalışma sayesinde frontend ile backend arasındaki iletişimin API endpointleri üzerinden nasıl gerçekleştiğini ve backend tarafında gelen isteklerin nasıl kontrol edilerek cevaplandırıldığını daha iyi anladım.
+
+---
+
+## En Çok Zorlandığım Konu Neydi?
+
+
+Farklı işlemlerde **hangi HTTP metodunun ve HTTP status kodunun kullanılması gerektiğini belirlemek** diğer konulara göre daha fazla düşünmemi gerektirdi.
+
+Ayrıca backend tarafında gelen verilerin validasyonunun yapılmasının ve hata durumlarında frontend'e anlaşılır response gönderilmesinin önemli olduğunu öğrendim.
+
+---
+
+## GitHub’da Ne Oluşturdum?
+
+GitHub repository içerisinde aşağıdaki Markdown dosyasını oluşturdum:
+
+| Dosya Adı                | İçeriği                                    |
+| ------------------------ | ------------------------------------------ |
+| `week-4-api-analysis.md` | AIHEXA QR Kod Oluşturma Modülü API analizi |
+
+---
+
+## Bir Sonraki Gün Neye Çalışacağım?
+
+Bir sonraki gün **QR Kod Oluşturma Modülünün geliştirme aşamalarına** çalışmayı planlıyorum.
+
+Özellikle:
+
+* QR Kod Modülünün backend tarafının geliştirilmesi
+
+konusuna çalışmayı planlıyorum.
+
 
 Özellikle:
 
