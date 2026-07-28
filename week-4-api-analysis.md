@@ -449,3 +449,190 @@ Response
 Frontend
 ```
 
+# Week 4 - API Analizi
+
+## QR Kod Modülü
+
+QR Kod Modülü için kullanılabilecek temel API endpointleri aşağıdaki gibidir.
+
+---
+
+## 1) QR Kod Oluşturma
+
+### Endpoint
+
+```http
+POST /api/qr-codes
+```
+
+### Amaç
+
+Yeni QR kod oluşturur.
+
+### Request
+
+```json
+{
+  "title": "Eğitim Sayfası",
+  "url": "https://example.com/education"
+}
+```
+
+### Response
+
+```json
+{
+  "success": true,
+  "message": "QR kod başarıyla oluşturuldu."
+}
+```
+
+---
+
+## 2) QR Kodları Listeleme
+
+### Endpoint
+
+```http
+GET /api/qr-codes
+```
+
+### Amaç
+
+Oluşturulan tüm QR kodları listeler.
+
+### Response
+
+QR kod listesi döner.
+
+---
+
+## 3) QR Kod Detayını Getirme
+
+### Endpoint
+
+```http
+GET /api/qr-codes/{id}
+```
+
+### Amaç
+
+Seçilen QR kodun detaylarını getirir.
+
+### Response
+
+QR kod bilgileri döner.
+
+---
+
+## 4) QR Kod Güncelleme
+
+### Endpoint
+
+```http
+PUT /api/qr-codes/{id}
+```
+
+### Amaç
+
+Seçilen QR kodun bilgilerini günceller.
+
+### Request
+
+```json
+{
+  "title": "Yeni Eğitim Sayfası",
+  "url": "https://example.com/new"
+}
+```
+
+### Response
+
+```json
+{
+  "success": true,
+  "message": "QR kod güncellendi."
+}
+```
+
+---
+
+## 5) QR Kod Silme
+
+### Endpoint
+
+```http
+DELETE /api/qr-codes/{id}
+```
+
+### Amaç
+
+Seçilen QR kodu siler.
+
+### Response
+
+```json
+{
+  "success": true,
+  "message": "QR kod silindi."
+}
+```
+
+---
+
+# Başarılı Response Örneği
+
+```json
+{
+  "success": true,
+  "message": "QR kod başarıyla oluşturuldu."
+}
+```
+
+---
+
+# Hatalı Response Örneği
+
+```json
+{
+  "success": false,
+  "message": "Geçerli bir URL girilmelidir."
+}
+```
+
+---
+
+# Kullanılacak HTTP Status Kodları
+
+| Kod                         | Açıklama           |
+| --------------------------- | ------------------ |
+| `200 OK`                    | İşlem başarılı     |
+| `201 Created`               | QR kod oluşturuldu |
+| `400 Bad Request`           | Geçersiz veri      |
+| `404 Not Found`             | QR kod bulunamadı  |
+| `500 Internal Server Error` | Sunucu hatası      |
+
+---
+
+# Validasyon Kuralları
+
+* Başlık boş olamaz.
+* URL boş olamaz.
+* URL geçerli formatta olmalıdır.
+* ID geçerli olmalıdır.
+
+---
+
+# Olası Backend Hataları
+
+* Geçersiz URL gönderilmesi.
+* Zorunlu alanların boş bırakılması.
+* QR kodun bulunamaması.
+* QR kod oluşturulurken hata meydana gelmesi.
+* Veritabanı hatası oluşması.
+
+---
+
+
+
+
