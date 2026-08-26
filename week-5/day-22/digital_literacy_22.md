@@ -1,0 +1,3 @@
+# Dijital Okuryazarlık #22 - Erişilebilir Sosyal Medya
+
+Erişilebilir sosyal medya içeriği, farklı ihtiyaçları olan kullanıcıların içeriğe ulaşabilmesini amaçlar. Görsellere açıklayıcı alt text eklemek ekran okuyucu kullanan kişiler için önemlidir. Videolarda altyazı kullanmak hem işitme güçlüğü yaşayan kişilere hem de sesi kapalı izleyen kullanıcılara yardımcı olur. Metin ve arka plan arasında yeterli kontrast okunabilirliği artırır. Çok küçük yazılar ve karmaşık fontlar mobil ekranda anlaşılabilirliği düşürür. İçerikte yalnızca renkle anlam vermek yerine metin veya ikon desteği de kullanılmalıdır. Bu yaklaşım hem kapsayıcılığı hem de içerik kalitesini artırır.

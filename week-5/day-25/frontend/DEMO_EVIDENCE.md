@@ -1,0 +1,23 @@
+# Kısa Demo Kanıtı
+
+## Doğrulanan senaryo
+
+TypeScript generic mantığının JavaScript çıktısı çalışır ve tekrar eden `id=1` kaydı temizlenerek iki benzersiz test kaydı JSON olarak gösterilir.
+
+## Çalıştırma
+
+Repository kökünde:
+
+```bash
+python -m http.server 8000
+```
+
+Sonra tarayıcıdan `/day-25/frontend/index.html` yolu açılır.
+
+## Paket hazırlama kontrolü
+
+- JavaScript dosyaları `node --check` ile sözdizimi kontrolünden geçirilir.
+- TypeScript bulunan gün için `tsc --noEmit` kontrolü uygulanır.
+- HTML/CSS/JS kaynakları repository içinde birlikte teslim edilir.
+
+> Not: Otomatik headless Chromium bu çalışma ortamında sistem DBus problemi nedeniyle ekran görüntüsü üretemedi. Bu yüzden sahte ekran görüntüsü eklenmemiştir; gerçek görsel kanıt gerekiyorsa demo kendi tarayıcında açılıp ekran görüntüsü alınmalıdır.

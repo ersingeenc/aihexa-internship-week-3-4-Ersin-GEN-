@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gün 21 - HTML5 Dinamik Bileşen</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <h1>Dinamik Test Kartları</h1>
+    <p>Butonlar template kullanılarak üretilir.</p>
+    <section id="cardList"></section>
+  </main>
+
+  <template id="cardTemplate">
+    <button class="card" type="button"><span></span></button>
+  </template>
+
+  <dialog id="detailDialog">
+    <h2 id="dialogTitle"></h2>
+    <p>Bu başlık data-* attribute üzerinden okundu.</p>
+    <button id="closeDialog">Kapat</button>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>

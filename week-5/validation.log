@@ -1,0 +1,25 @@
+Validation date: 2026-08-26
+Java main compile: OK
+Java SE examples compile: OK
+JSON parse: OK
+JavaScript node --check: OK
+TypeScript tsc --strict --noEmit: OK
+HTTP serve/curl: OK
+Maven/Testcontainers runtime: NOT EXECUTED (Maven unavailable in build environment)
+Headless Chromium screenshot: NOT EXECUTED successfully (environment DBus issue); no fake screenshot added
+--- day-21 / ListArrayListExample ---
+?lk g?rev: Unit test yaz
+G?ncel liste: [Integration testini g?ncelle]
+--- day-22 / SetHashSetExample ---
+Orijinal: [java, test, java, git, test]
+Tekrars?z: [java, git, test]
+Benzersiz eleman say?s?: 3
+--- day-23 / MapHashMapExample ---
+102 numaral? kullan?c?: Grace
+101 -> Ada
+102 -> Grace Hopper
+--- day-24 / GenericsExample ---
+Contract Test - G?n 24
+--- day-25 / ComparableComparatorExample ---
+Do?al s?ralama (isim): [Student[name=Ali, score=92], Student[name=Mehmet, score=78], Student[name=Zeynep, score=85]]
+Harici s?ralama (puan): [Student[name=Ali, score=92], Student[name=Zeynep, score=85], Student[name=Mehmet, score=78]]

@@ -1,0 +1,3 @@
+# Dijital Okuryazarlık #23 - Hashtag ve Anahtar Kelime
+
+Çok sayıda alakasız hashtag kullanmak içerik konusunu belirsizleştirebilir. Daha iyi yaklaşım, içeriğin ana temasını temsil eden az sayıda ve ilgili etiket seçmektir. Teknik bir Java testing gönderisinde `#Java`, `#JUnit` ve `#SoftwareTesting` gibi doğrudan konuya bağlı etiketler kullanılabilir. Anahtar kelimeler de başlık ve açıklamada doğal biçimde yer almalıdır. Kullanıcının arama niyetine uygun ifadeler içerik keşfedilebilirliğini artırabilir. Etiket ve anahtar kelime seçimi hedef kitleye ve platformun arama davranışına göre düzenlenmelidir.

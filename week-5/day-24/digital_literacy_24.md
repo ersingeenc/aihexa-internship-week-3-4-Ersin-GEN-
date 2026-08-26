@@ -1,0 +1,3 @@
+# Dijital Okuryazarlık #24 - Kısa Video İçeriği
+
+Kısa videoda ilk üç saniye kullanıcının dikkatini çekmek için kritik bir bölümdür. Teknik içerikte video tek bir ana mesaja odaklanmalıdır. Örneğin “JUnit parameterized test nedir?” başlığıyla ilk saniyelerde sorun gösterilebilir, ardından kısa kod örneği verilebilir. Altyazı, sesi kapalı izleyen kullanıcılar için içeriği erişilebilir tutar. Dikey 9:16 format mobil platformların ekran kullanımına uygundur. Ekranda aynı anda çok fazla kod göstermek yerine yalnızca ilgili satırlar vurgulanmalıdır. Video sonunda “Örneği GitHub reposunda incele” gibi net bir CTA kullanılabilir.

@@ -1,0 +1,10 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #f4f4f4; }
+.page { min-height: 100vh; padding: 48px 16px; }
+.u-center { display: grid; place-items: center; }
+.test-card { width: min(520px, 100%); background: white; border: 1px solid #ddd; border-radius: 16px; padding: 28px; }
+.test-card--critical { border-width: 2px; }
+.test-card__badge { display: inline-block; padding: 6px 10px; border: 1px solid #999; border-radius: 999px; font-size: 13px; }
+.test-card__title { margin: 18px 0 8px; }
+.test-card__description { line-height: 1.6; }
+.test-card__button { margin-top: 16px; padding: 10px 16px; border-radius: 8px; border: 1px solid #555; background: white; cursor: pointer; }
