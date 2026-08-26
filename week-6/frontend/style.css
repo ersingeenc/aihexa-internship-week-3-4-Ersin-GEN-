@@ -1,0 +1,29 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f5f5f5;
+}
+
+h1 {
+  font-size: clamp(1.8rem, 5vw, 3rem);
+}
+
+.responsive-card {
+  container-type: inline-size;
+  max-width: 700px;
+  padding: 1.25rem;
+  background: white;
+  border-radius: 16px;
+}
+
+.responsive-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+@container (max-width: 450px) {
+  .responsive-card {
+    font-size: 0.9rem;
+  }
+}
